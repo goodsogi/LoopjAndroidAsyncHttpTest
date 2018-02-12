@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/LoopjAndroidAsyncHttpTest/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_85f398a14d151072e8f03799ea9ecd360e3cd98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/LoopjAndroidAsyncHttpTest/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_0e5872ce64653d2e0ecf48d7c09e935abbf83424.jar" />
+    </item>
+
+</items>
